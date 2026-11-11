@@ -60,12 +60,12 @@ Four independently documented projects are planned from completed laboratory wor
 
 | Project | Primary Focus | Status |
 |---|---|---|
-| AI Security Labs | Prompt injection, guardrails, secure RAG, red teaming | Preparation |
+| [AI Security Labs](https://github.com/Necraatall/ai-security-labs) | Prompt injection, security evaluation, synthetic agent testing | **Released v1.0.0** |
 | Secure AI Agents | Tool authorization, human approval, agent isolation | Preparation |
 | AI DevSecOps Pipeline | AI evaluation, security CI/CD, supply-chain controls | Preparation |
 | AI Threat Modeling | Threat analysis and security architecture | Preparation |
 
-These repositories will be published individually after verification of implementation, provenance, and reproducibility.
+AI Security Labs v1.0.0 is publicly released. The remaining projects are in preparation.
 
 ### 4. [Prometheus & Grafana](https://github.com/Necraatall/prometheus-grafana)
 
