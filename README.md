@@ -91,9 +91,13 @@ Planned scope:
 
 ## Certifications & Professional Development
 
-A dedicated repository will provide a structured overview of completed certifications, credentials, and relevant professional training.
+Completed professional training in cybersecurity, AI security, DevOps,
+software development, and software testing.
 
-**Certification index:** To be published after verification of credentials.
+**[Professional Certifications & Technical Training](https://github.com/Necraatall/professional-certifications)**
+
+The repository includes certificate documents, historical training records,
+and verification notes.
 
 ## Engineering Principles
 
